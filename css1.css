@@ -1,2 +1,12 @@
-.body {
-    }
+body {
+    background-image: url("dounutb.PNG"); align-items: left;
+  }
+  h1 {
+    color: rgb(189, 15, 110); text-align: left;
+  }
+  p {
+    color: rgb(122, 17, 52); font-size: x-large; text-align: left;
+  }
+  img { align-self: left;
+
+  }
