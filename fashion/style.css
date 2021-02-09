@@ -1,0 +1,60 @@
+body {
+
+
+width: 990px; color: #747474; background-color: #f9f7cf; font-size: larger; text-align: center ; margin: auto; border-style: solid; padding: 10px; border-radius: 20px; box-shadow: 3px 3px 5px 6px #929292; -moz-box-shadow: 3px 3px 5px 6px #929292;
+-webkit-box-shadow: 3px 3px 5px 6px #929292; 
+}
+header {
+    background-color: #f2dcbb ; padding-top: 20px;  padding-bottom: 20px; border: #747474; border-radius: 20px; border-color: #929292 ; border-style: solid;
+
+}
+h1 {
+    text-align: right; margin-right: 40px; margin-top: 20px ;
+
+}
+header ul li {
+    display: inline;   font-size: larger ; color: #929292; text-align: left;
+}
+
+.logo1a {
+    width: 200px; height: auto; float: left; border-radius: 50%;
+}
+.logo1b {
+    width: 200px; height: auto ; float: right; border-radius: 50%;
+}
+.para1 {
+    margin-top: 90px; margin-bottom: 250px;
+}
+h2 {
+    color: #af9977; text-align : center; font-size: xx-large; padding-bottom: 80px; padding-top: 40px;
+}
+.exam1 {
+    float: left ; width: 400px; height: 540px; padding-left: 40px; margin-right: 40px;
+}
+.logo2a {
+    width: 200px; height: auto; float: left; border-radius: 50%;
+}
+.logo2b {
+    width: 200px; height: auto ; float: right; border-radius: 50%;
+}
+.exam2 {
+    float: right ; width: 400px; height: 540px; padding-left: 40px; margin-right: 40px;
+}
+.logo3a {
+    width: 200px; height: auto; float: left; border-radius: 50%;
+}
+.logo3b {
+    width: 200px; height: auto ; float: right; border-radius: 50%;
+}
+.para2 {
+    margin-top: 90px; margin-bottom: 350px;
+}
+.exam3 {
+    float: left ; width: 400px; height: 540px; padding-left: 40px; margin-right: 40px;
+}
+.para3 {
+    margin-top: 90px; margin-bottom: 250px;
+}
+footer {
+    color: white; background-color: #929292; border-radius: 20px;
+}
